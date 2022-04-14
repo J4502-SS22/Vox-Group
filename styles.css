@@ -14,10 +14,11 @@ body {
 }
 
 
-
 @media (min-width: 700px) {
 .navlist {
-  border: 3px dotted green;
+  font-size: 2em;
+  background:grey;
+  border: 3px solid black;
   flex-direction:row;
 }
 
