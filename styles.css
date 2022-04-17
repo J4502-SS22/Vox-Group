@@ -1,7 +1,8 @@
 body {
-  margin:0;
-  padding:0;
+background: #CADBC0;
+font-family: "Chronicle Display", serif;
 }
+/*not sure how to change the font???someone help -Maddy */
 
 .navlist {
   width:100%;
@@ -13,11 +14,10 @@ body {
   list-style-type: none;
 }
 
-
 @media (min-width: 700px) {
 .navlist {
   font-size: 2em;
-  background:grey;
+  background:#FFFDD0;
   border: 3px solid black;
   flex-direction:row;
 }
@@ -25,12 +25,36 @@ body {
 .navlist li {
   width:25%;
 }
-
 }
 
-
-
-
 @media (min-width: 800px) {
+}
 
+#the503020method {
+  border: 3px solid black;
+}
+
+#cities-col {
+  border: 3px solid black;
+}
+
+#stlouisimage {
+  max-width: 100%;
+  height:auto;
+  border: 2px solid black;
+}
+#chicagoimage {
+  max-width: 100%;
+  height:auto;
+  border: 2px solid black;
+}
+#dallasimage {
+  max-width: 100%;
+  height:auto;
+  border: 3px solid black;
+}
+#charlotteimage{
+  max-width: 100%;
+  border: 2px solid black;
+  height:auto;
 }
