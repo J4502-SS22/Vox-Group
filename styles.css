@@ -30,13 +30,20 @@ font-family: "Chronicle Display", serif;
 @media (min-width: 800px) {
 }
 
-#the503020method {
-  border: 3px solid black;
+.backtotop{
+  display:flex;
+  justify-content:center;
+}
+
+#the503020method{
+  display:flex;
+  justify-content:center;
 }
 
 #cities-col {
   border: 3px solid black;
 }
+
 
 #stlouisimage {
   max-width: 100%;
