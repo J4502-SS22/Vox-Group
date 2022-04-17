@@ -4,11 +4,16 @@ font-family: "Chronicle Display", serif;
 }
 /*not sure how to change the font???someone help -Maddy */
 
+h1{
+  display:flex;
+  justify-content:center;
+}
+
 .navlist {
   width:100%;
-  border: 1px solid red;
+  border: 1px solid black;
   display:flex;
-  flex-direction:column;
+  flex-direction:row;
   padding:0;
   margin:0;
   list-style-type: none;
@@ -35,6 +40,7 @@ font-family: "Chronicle Display", serif;
   justify-content:center;
 }
 
+/*budgeting page style starts -Maddy*/
 #the503020method{
   display:flex;
   justify-content:center;
@@ -42,8 +48,8 @@ font-family: "Chronicle Display", serif;
 
 #cities-col {
   border: 3px solid black;
+  background: #FFFDD0;
 }
-
 
 #stlouisimage {
   max-width: 100%;
