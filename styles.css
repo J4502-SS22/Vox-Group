@@ -49,6 +49,8 @@ display:flex;
   position: fixed;
   top:0;
   left:0;
+  max-height: 200px;
+  max-width: 200px;
 }
 
 /*budgeting page style starts -Maddy*/
