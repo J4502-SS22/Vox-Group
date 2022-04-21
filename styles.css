@@ -45,6 +45,12 @@ display:flex;
   justify-content:center;
 }
 
+#logo{
+  position: fixed;
+  top:0;
+  left:0;
+}
+
 /*budgeting page style starts -Maddy*/
 #the503020method{
   display:flex;
