@@ -92,7 +92,7 @@ display:flex;
   height:auto;
 }
 /*investing style*/
-#investing {
+.investing {
   display: flex;
   justify-content: center;
 }
