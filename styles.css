@@ -1,6 +1,6 @@
 body {
 background: #CADBC0;
-font-family: "Sentinal", serif;
+font-family: "Georgia", serif;
 }
 /*not sure how to change the font???someone help -Maddy */
 
@@ -53,6 +53,13 @@ display:flex;
   max-width: 100px;
 }
 
+/*banking page starts*/
+#Largest-US-Banks{
+  position: flex;
+  background: FFFDD0;
+  border: 3px solid black;
+}
+
 /*budgeting page style starts -Maddy*/
 #the503020method{
   display:flex;
@@ -83,4 +90,9 @@ display:flex;
   max-width: 100%;
   border: 2px solid black;
   height:auto;
+}
+/*investing style*/
+#investing {
+  display: flex;
+  justify-content: center;
 }
