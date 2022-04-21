@@ -45,12 +45,12 @@ display:flex;
   justify-content:center;
 }
 
-#sitelogo{
+#logo{
   position: fixed;
   top:0;
   left:0;
-  max-height: 90px;
-  max-width: 90px;
+  max-height: 200px;
+  max-width: 200px;
 }
 
 /*banking page starts*/
