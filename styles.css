@@ -1,6 +1,6 @@
 body {
 background: #CADBC0;
-font-family: "Garamond", serif;
+font-family: "Georgia", serif;
 }
 /*not sure how to change the font???someone help -Maddy */
 
@@ -83,4 +83,9 @@ display:flex;
   max-width: 100%;
   border: 2px solid black;
   height:auto;
+}
+/*investing style*/
+#investing {
+  display: flex;
+  justify-content: center;
 }
