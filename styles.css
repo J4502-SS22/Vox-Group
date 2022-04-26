@@ -48,9 +48,7 @@ display:flex;
 #logo{
   position: fixed;
   top:0;
-  left:0;
-  max-height: 50px;
-  max-width: 75px;
+  left:0;  
 }
 
 /*banking page starts*/
