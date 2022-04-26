@@ -93,7 +93,8 @@ display:flex;
   height:auto;
 }
 /*investing style*/
-.investing {
+img.investing {
   display: flex;
   justify-content: center;
-}
+  align-items: center;
+  flex-direction: column;
