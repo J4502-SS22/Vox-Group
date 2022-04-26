@@ -62,6 +62,16 @@ display:flex;
 }
 
 /*budgeting page style starts -Maddy*/
+.tabletext{
+  width:25%;
+  display:flex;
+  justify-content: center;
+}
+
+.cityphoto{
+  width: 50%;
+}
+
 #the503020method{
   display:flex;
   justify-content:center;
