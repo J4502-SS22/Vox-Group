@@ -1,6 +1,7 @@
 body {
 background: #CADBC0;
 font-family: "Georgia", serif;
+margin: 50px;
 }
 /*not sure how to change the font???someone help -Maddy */
 
@@ -8,6 +9,8 @@ h1{
   display:flex;
   justify-content:center;
 }
+
+
 
 .navlist {
   width:100%;
@@ -48,7 +51,7 @@ display:flex;
 #logo{
   position: fixed;
   top:0;
-  left:0;  
+  left:0;
 }
 
 /*banking page starts*/
