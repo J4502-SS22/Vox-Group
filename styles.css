@@ -49,8 +49,8 @@ display:flex;
   position: fixed;
   top:0;
   left:0;
-  max-height: 200px;
-  max-width: 200px;
+  max-height: 50px;
+  max-width: 75px;
 }
 
 /*banking page starts*/
@@ -92,10 +92,15 @@ display:flex;
   border: 2px solid black;
   height:auto;
 }
+<<<<<<< HEAD
 #IMG_7826{
   max-width: 90%;
   height: auto;
 }
+=======
+
+
+>>>>>>> 9cdef4430ac9e7d658133b7374fdef6dc818b85a
 /*investing style*/
 img.investing {
   display: flex;
