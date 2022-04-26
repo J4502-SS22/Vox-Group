@@ -92,8 +92,15 @@ display:flex;
   border: 2px solid black;
   height:auto;
 }
+<<<<<<< HEAD
+#IMG_7826{
+  max-width: 90%;
+  height: auto;
+}
+=======
 
 
+>>>>>>> 9cdef4430ac9e7d658133b7374fdef6dc818b85a
 /*investing style*/
 img.investing {
   display: flex;
