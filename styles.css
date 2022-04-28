@@ -23,7 +23,7 @@ h1{
   list-style-type: none;
 }
 
-@media (min-width: 700px) {
+
 .navlist {
   font-size: 2em;
   background:#FFFDD0;
@@ -39,9 +39,11 @@ display:flex;
   width:25%;
 }
 
-
-@media (min-width: 800px) {
+.logo {
+  width:100%;
+  max-width:400px;
 }
+
 
 .backtotop{
   display:flex;
@@ -73,6 +75,11 @@ display:flex;
   width: 50%;
 }
 
+.cityphoto img {
+  width:100%;
+  max-width:300px;
+}
+
 #the503020method{
   display:flex;
   justify-content:center;
@@ -81,6 +88,11 @@ display:flex;
 #cities-col {
   border: 3px solid black;
   background: #FFFDD0;
+}
+
+#cities-col tr {
+  border-bottom:1px solid black;
+  display: block;
 }
 
 #stlouisimage {
@@ -103,18 +115,20 @@ display:flex;
   border: 2px solid black;
   height:auto;
 }
-<<<<<<< HEAD
+
 #IMG_7826{
   max-width: 90%;
   height: auto;
 }
-=======
 
 
->>>>>>> 9cdef4430ac9e7d658133b7374fdef6dc818b85a
 /*investing style*/
 img.investing {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+  @media (min-width: 800px) {
+  }
