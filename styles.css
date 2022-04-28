@@ -38,7 +38,7 @@ display:flex;
 .navlist li {
   width:25%;
 }
-
+}
 
 @media (min-width: 800px) {
 }
@@ -113,8 +113,9 @@ display:flex;
 
 >>>>>>> 9cdef4430ac9e7d658133b7374fdef6dc818b85a
 /*investing style*/
-img.investing {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+ img.investing {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+ }
