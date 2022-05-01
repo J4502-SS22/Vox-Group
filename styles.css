@@ -70,8 +70,10 @@ display:flex;
 }
 
 #credit-score{
-  display: flex;
+  width: 90%;
+  max-width: 600px;
   justify-content: center;
+  margin: auto;
 }
 
 /*budgeting page style starts -Maddy*/
