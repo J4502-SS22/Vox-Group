@@ -70,7 +70,7 @@ display:flex;
 }
 
 #credit-score{
-  width: 90%;
+  width: 50%;
   max-width: 300px;
   justify-content: center;
   margin: auto;
