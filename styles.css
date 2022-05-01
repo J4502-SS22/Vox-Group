@@ -70,9 +70,10 @@ display:flex;
 }
 
 #credit-score{
-  width: 100%;
+  width: 90%;
   max-width: 200px;
   justify-content: center;
+  height: auto;
   margin: auto;
 }
 
