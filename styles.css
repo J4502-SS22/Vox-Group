@@ -69,6 +69,11 @@ display:flex;
   max-width: 100%;
 }
 
+#credit-score{
+  display: flex;
+  justify-content: center;
+}
+
 /*budgeting page style starts -Maddy*/
 .tabletext{
   width:25%;
