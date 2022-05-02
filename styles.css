@@ -96,6 +96,8 @@ display:flex;
 #the503020method img{
   display:flex;
   justify-content:center;
+  width:100%;
+  max-width:400px;
 }
 
 #cities-col {
