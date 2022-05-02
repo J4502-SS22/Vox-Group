@@ -150,4 +150,19 @@ img.investing {
     .navlist li {
       width:25%;
     }
+  .robin {
+    max-width: 250px;
+    width: 100%;
+    display:flex;
+    justify-content:center;
+  }
+  .wells {
+    max-width: 200px;
+    width: 100%;
+    display:flex;
+    justify-content:center;
+  }
+  .elle {
+    display:flex;
+    justify-content:center;
   }
