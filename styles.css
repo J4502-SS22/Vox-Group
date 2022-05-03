@@ -43,6 +43,19 @@ display:flex;
 .navlist li {
   width:50%;
   box-sizing:border-box;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.active {
+  background-color: black;
+}
+
+.active a {
+  color: white;
 }
 
 .logo {
