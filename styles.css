@@ -157,6 +157,8 @@ img.investing {
   .robin {
     width:100%;
     max-width:250px;
+    margin: auto;
+    height: auto;
     display:block;
     margin-left: auto;
   margin-right: auto;
@@ -164,6 +166,7 @@ img.investing {
   .wells {
     max-width: 200px;
     width: 100%;
+    height: auto;
     display:block;
     margin-left: auto;
   margin-right: auto;
