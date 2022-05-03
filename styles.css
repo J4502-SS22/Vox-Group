@@ -72,12 +72,17 @@ display:flex;
 }
 
 #credit-score{
-  width: auto;
+  width: 100%;
   max-width: 400px;
   justify-content: center;
   height: auto;
   margin-left: auto;
   margin-right: auto;
+}
+
+#credit-score img {
+  width: 100%;
+  margin: 0;
 }
 
 /*budgeting page style starts -Maddy*/
