@@ -157,10 +157,7 @@ img.investing {
   .robin {
     width:100%;
     max-width:250px;
-    margin: auto;
-    height: auto;
-    min-width: 100px;
-    object-fit: scale-down;
+    overflow: auto;
     display:block;
     margin-left: auto;
   margin-right: auto;
