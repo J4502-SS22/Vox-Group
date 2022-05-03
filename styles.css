@@ -157,15 +157,10 @@ img.investing {
   .robin {
     width:100%;
     max-width:250px;
-    overflow: auto;
+    height: auto;
     display:block;
     margin-left: auto;
   margin-right: auto;
-  }
-  .robin img {
-    max-width: 100%;
-  height: auto;
-  display: block;
   }
   .wells {
     max-width: 200px;
